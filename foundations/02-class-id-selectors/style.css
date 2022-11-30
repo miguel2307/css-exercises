@@ -1,0 +1,16 @@
+.main{
+    background-color: rgb(221, 147, 147);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#space{
+    color: hsl(241, 91%, 45%);
+    font-size: 36px;
+}
+.dog{
+    font-size: 24px;
+}
+#time{
+    background-color: #AAFF00;
+    font-size: 24px;
+    font-weight: bold;
+}
